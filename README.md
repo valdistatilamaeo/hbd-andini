@@ -1,6 +1,6 @@
-# Halaman Web Ulang Tahun Dea Putri Adini 💖
+# Halaman Web Ulang Tahun Dea Putri Andini 💖
 
-Halaman web ucapan selamat ulang tahun interaktif bernuansa pink-putih yang didesain khusus secara mobile-first (Instagram Stories style) untuk **Dea Putri Adini** dari **Arif**.
+Halaman web ucapan selamat ulang tahun interaktif bernuansa pink-putih yang didesain khusus secara mobile-first (Instagram Stories style) untuk **Dea Putri Andini** dari **Arif**.
 
 ## Fitur Utama
 - **Instagram Story Navigation**: Navigasi slide progres otomatis dengan sistem ketuk (tap kiri/kanan) layaknya Instastory.
